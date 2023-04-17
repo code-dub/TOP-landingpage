@@ -160,3 +160,33 @@ img{
     margin-top: 0;
     padding: 0;
 }
+
+/* section 4 style */
+
+.section-4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 64px;
+    padding: 32px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-4a{
+    padding: 0;
+}
+
+.section-4b{
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+}
+
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    padding: 32px;
+    color: #E5E7EB;
+    font-family: Arial, Helvetica, sans-serif;
+}
